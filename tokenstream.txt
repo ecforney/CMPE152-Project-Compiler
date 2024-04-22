@@ -1,0 +1,26 @@
+KEYWORD: <'if'>
+IDENTIFIER: <'x'>
+OPERATOR: <'=='>
+NUMBER_LITERAL: <'5'>
+PUNCTUATION: <':'>
+NEWLINE: <'\n'>
+IDENTIFIER: <'print'>
+PUNCTUATION: <'('>
+STRING_LITERAL: <'"x is 5"'>
+PUNCTUATION: <')'>
+NEWLINE: <'\n'>
+KEYWORD: <'elif'>
+PUNCTUATION: <':'>
+NEWLINE: <'\n'>
+IDENTIFIER: <'print'>
+PUNCTUATION: <'('>
+STRING_LITERAL: <'"x is not 5"'>
+PUNCTUATION: <')'>
+NEWLINE: <'\n'>
+KEYWORD: <'else'>
+PUNCTUATION: <':'>
+NEWLINE: <'\n'>
+IDENTIFIER: <'print'>
+PUNCTUATION: <'('>
+STRING_LITERAL: <'"Yippie"'>
+PUNCTUATION: <')'>
